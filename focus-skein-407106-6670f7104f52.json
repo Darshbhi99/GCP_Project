@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "focus-skein-407106",
+  "private_key_id": "6670f7104f52354cee3872a5d7461663f0d32b42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWwq2j8Nh/DJWG\nnSvsF8jtt+V+sCFfLfns2xY0wvvV1rs/GrMAMgN5uI/5cTJueo8dmxTYtySfPwxx\n8YVupJreReOHsH+h3JO+VVhOyTn8nd1bau37aQmErdy11jG28lUGPNVHVqEk8Qqm\ni4+sqIrDyClNwy91CbUAMKPMdWeIK1w7pYbtwXkxqPAghPVUQL60t3t0dYPgyofp\nIFC4EINVaRt64Ms0ihQNuXQ/29TNnodWF1zgByC7F+9dOAW8PBC1Qd1jH1a3+II2\nng3fvtLivi6iaetGRIHeIvw1aVTFPvgtSjSgIyKmcjOHXks3l9bgtecGpHFJEoJc\ns9w4h0oRAgMBAAECggEAC2t9xGWxu0Cpxu5QQxcIz7EBalekf4A3u/sF3e3zLknm\nGdac6Tk1+C9vKyxURKLLWn5tKtQHVc9sfZPCUWpDQkO1rjPuxxpdT//zq4F5/1UP\nTSXMFyI9aAEqLyqleL/h3udsGcufHfGVpp37E89vNiYLCD/ucAV8jMzNFjzCdexX\nxLMS4ToB+jihZAyoqCGO1kevhzNLtozacLiqNRWugrjSVOX4EM58mpODmQWlNlWh\nf/VznODFiJKJJ7ucCfCQ4sbJrHd0MTEI7I/KWyxBagxKQnAk/dEICwfva7mkx67e\nQxCRrJ4VljihOwppYysgvHNhxlkDbyyJY0q3NWtAEQKBgQDQYhzkd0i4BmbZb0Y7\naOeZ+uDsi2kfxSC+k5EjaMbcgTe/qEDDLIBKiq3oc9cC4bgY8hSOSiFhcBb1rGMF\n5FBPzWyszP6nawIiala4AXiazvXmRGmHeIHMEBwKHQ8LWdCUPuHXYKQr+tgUsnRO\nalJNZ8YR+zrGSThdyR/8Toh/1QKBgQC5NceRsA/E4yKMk2bg3Sfuo714xsPOH1AB\n3+BDNGAAXT42qCKIxgUkXwcIlKgj94uckKdvA2hhuy1w3g1OWls8K2LkaFiVsJAF\n9ASPLeF1ppx8WCuzrzJlbKsLsLcVN1TZlASYCv7BXic0NwgdjUii0F9lbmqxgSbC\ny6TMKBf7TQKBgQC+iTeJ31fqjE/2eLxrDhzWuoJ3R3GzzveFykBndCKA9NYYtKui\nyknz3qHtbh4nUGSYyqDpCfdDtM4JjLpuZLjafybjSf1+72VgOoNYdF/mjV5iUiN7\n70Afaot44+Ehq9n/8w9lc8QpQo/ZPOMD4Euo4z5EqsavD7wuZPyOIvDEkQKBgEbb\ndWOeeRn5T/F6P0TON4XMLSP031qPjjt5XEI52nSpN7EPeE7de4Ajvvwga4d/IHGg\nwf3tztR9GPByc6LDXN5TNv1tkl6Kcz9j0Q66HeS1/m5wCSAwadZ10aaiUBkU1yh6\nwZstsbNnAxat6zPrJpvrnmOe78DDSYIDCSR2Pl6NAoGANHyvvyy0ghYbesUBY0QM\nunbctf4nyaPHxLg0u335z6Om6Kd/jeER8MlL3JeA8ATgsZYZ/gZhkHE9otHtGWq3\nUa34gTiOYrsCvRo1UyZcFgww33fnRdTkRnaH1LHoV7eQtxsLkE2zpuI3BpY8aUY1\n7PEN8sNkIaQm7JEJJT6cOiA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "testaccount01@focus-skein-407106.iam.gserviceaccount.com",
+  "client_id": "104076911266773328745",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testaccount01%40focus-skein-407106.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

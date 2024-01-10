@@ -14,7 +14,7 @@ gcloud projects list
 gcloud config get-value project
 
 #Save the result of the above cd in a variable
-export PROJECT_ID=$(cloud config get-value project)
+export PROJECT_ID=$(gcloud config get-value project)
 
 #Gives the output of above command
 echo $PROJECT_ID
